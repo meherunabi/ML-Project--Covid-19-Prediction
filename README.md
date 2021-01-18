@@ -63,3 +63,5 @@ Table 2 : Polynomial regression Vs SVM evaluation on Death Cases
 From the above table, considering MAE , MSE, MAPE and R^2 matric score to evaluate two models, it can be said that the Polynomial regression model performed well compared to SVM models in terms of confirmed cases. Polynomial regression model holds less error in all off the error matrices than SVM. 
 Therefore, the Polynomial regression model works better to predict covid-19 confirmed cases for next 30 days.
 
+## Final Results 
+From the above two evaluation tables, it has been observed that polynomial regression algorithm works better on prediction than SVM. In both confirmed and death prediction, polynomial regression had the significantly lowest error rate i.e 8% in confirmed cases and 16% in death cases, which justifies that Polynomial Regression model servers the better result. 
